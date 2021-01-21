@@ -2,7 +2,7 @@
 
 2. Email: **di.belost@gmail.com**
 
-   Phone number: **+48 (79)5043306**
+   Phone number: **+48 795043306**
    
 3. Married, have a child
 
