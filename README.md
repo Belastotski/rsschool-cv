@@ -1,7 +1,7 @@
-#Markdown & Git
+# Markdown & Git
 
 https://Belastotski.github.io/rsschool-cv/cv
 
-#HTML & CSS
+# HTML & CSS
 
 https://Belastotski.github.io/rsschool-cv/
